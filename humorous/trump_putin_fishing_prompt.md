@@ -1,1 +1,4 @@
+Humorous Satirical Story Prompt: "When Trump and Putin Go Fishing"
+*"Write a humorous, satirical story about an unlikely fishing trip featuring Donald Trump and Vladimir Putin. On a bright, sunny day, these two notorious leaders set out together on a fishing adventure that quickly turns into a series of absurd misadventures. They bicker over whose fishing technique is superior, accidentally spark a farcical international incident with their quirky fishing gear, and stumble into bizarre encounters with eccentric locals and even more eccentric fish.
 
+The story should be full of witty dialogue, playful caricatures, and unexpected twists. It should poke fun at political stereotypes in a lighthearted way without resorting to personal attacks or offensive humor. The tone should remain irreverent and amusing throughout, highlighting the absurdity of the situation while ultimately conveying a humorous message about unexpected camaraderie."*
