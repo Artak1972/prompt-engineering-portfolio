@@ -1,4 +1,3 @@
-
 Fine-Tuning a Transformer-Based Language Model Using PyTorch: A Step-by-Step Guide
 In this guide, we’ll walk through the process of fine-tuning a transformer-based language model using PyTorch. We’ll cover:
 
@@ -196,5 +195,4 @@ d. Monitoring Overfitting
 Regularly monitor training and validation loss.
 Use early stopping if the model overfits the training data.
 Final Thoughts
-This guide covers the core aspects of fine-tuning a transformer model with PyTorch. It provides practical code examples, explains each step, and highlights common pitfalls along with best practices. Using a guide like this in your portfolio demonstrates your technical capability and your ability to communicate complex concepts clearly.
-
+This guide covers the core aspects of fine-tuning a transformer model with PyTorch. It provides practical code examples, explains each step, and highlights common pitfalls along with best practices. Using a guide like this in your portfolio demonstrates your technical capability and your ability to communicate complex concepts clearly
